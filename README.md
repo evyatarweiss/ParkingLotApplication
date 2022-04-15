@@ -43,10 +43,6 @@ Notes:
 
 • Data persistence is left at your discretion, we’ll cover persistence in the cloud in Lesson 5.
 
-Deliverables:
-
-Submit your work by email to oren.eini@post.idc.ac.il. The email should not contain the project itself, but a link to it.
-
 You need to create:
 
 • The code that would handle the above-mentioned endpoints.
