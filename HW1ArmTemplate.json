@@ -95,6 +95,7 @@
             ],
             "properties": {
               "repoUrl": "[variables('gitRepoUrl')]",
+              "scmType" : "LocalGit",
               "branch": "master",
               "isManualIntegration": true
             }
