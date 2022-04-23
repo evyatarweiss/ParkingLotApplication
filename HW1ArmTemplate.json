@@ -95,7 +95,7 @@
             ],
             "properties": {
               "repoUrl": "[variables('gitRepoUrl')]",
-              "scmType" : "GitHub",
+              "scmType" : "ExternalGit",
               "branch": "master",
               "isManualIntegration": true
             }
